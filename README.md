@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, soy Chris Garcia
 
 ## 🚀 Sobre mí
