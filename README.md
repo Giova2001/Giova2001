@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Giova2001/Giova2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Chris Garcia
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy desarrollador apasionado por la tecnología y el desarrollo de aplicaciones, con enfoque en **Android**, **bases de datos** y **soluciones móviles**.  
+Me gusta crear aplicaciones funcionales, bien estructuradas y orientadas a una buena experiencia de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- 📱 **Android (Java / Kotlin)**
+- 🗄️ **Room, SQLite, Firebase**
+- 💻 **Git & GitHub**
+- 🌐 **APIs REST**
+- 🎨 **UI/UX básico**
+
+## 📌 Proyectos destacados
+- 📦 **Sistema de pedidos tipo delivery**
+
+
+## 📚 Actualmente aprendiendo
+- Arquitectura **MVVM**
+- Optimización de flujos en apps móviles
+- Integración de mapas y rutas
+
+## 📫 Contacto
+- 📧 Email: *tu_correo@email.com*
+- 💼 LinkedIn: *linkedin.com/in/tuusuario*
+- 🌐 Portafolio: *próximamente*
+
+---
+⭐ *Siempre abierto a aprender y colaborar en nuevos proyectos*
